@@ -1,0 +1,18 @@
+html {
+    Color: white; /* hvit skriftfarge */
+    font-family: tahoma, sans-serif; /* Tahoma + sans-serif som backup skrifttype */
+}
+
+body {
+  background-color:rgb(24,26,27); /* grå bakgrunnsfarge */
+}
+
+h1 {
+  background-color: rgb(43, 46, 48); /* Grå bakgrunnsfarge bak overskrifter */
+}
+
+#hoved {
+  width: 60%;                            /* bredde: 60 % av vinduet */
+  padding: 40px;                         /* luft mellom kantlinjene og innholdet */            /* Tok denne koden fra: https://aunivers.lokus.no/fagpakker/realfag/informasjonsteknologi-1-2/it-1/2-nettsider-med-html-og-css/2b-en-enkel-nettside-med-bilder-og-lenker/hvordan-bruker-vi-css */
+  background-color: rgb(43, 46, 48);   /* grå bakgrunnsfarge */
+}
